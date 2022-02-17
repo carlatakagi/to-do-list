@@ -1,0 +1,26 @@
+body {
+  background-color: palevioletred;
+  font-family: Courier New, Courier, monospace;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+p {
+  font-size: 0.8rem;
+  font-style: italic;
+}
+
+.container {
+  line-height: 25px;
+}
+
+#lista-tarefas {
+  font-size: 0.7rem;
+}
+
+.completed {
+  text-decoration: line-through;
+}
